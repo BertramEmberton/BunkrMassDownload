@@ -12,7 +12,7 @@ python bunkr_downloader.py
 
 ### Run as Import
 Import script and run main(), provide URL and (optionally) download path.
-Note: if no path given, then input() called, if no input() given, then defaults tothe  current path.
+Note: if no path given, then input() called, if no input() given, then defaults to the  current path.
 
 ```python
 from bunkr_downloader import main
